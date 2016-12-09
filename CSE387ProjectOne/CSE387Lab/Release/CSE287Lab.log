@@ -1,0 +1,15 @@
+﻿  BasicIncludesAndDefines.cpp
+  bitmap_class.cpp
+  Cube.cpp
+  Lab.cpp
+  BuildShader.cpp
+  MyScene.cpp
+  SharedLightProperties.cpp
+  SharedMaterialProperties.cpp
+  SharedProjectionAndViewing.cpp
+  Sphere.cpp
+  VisibleObject.cpp
+  Generating code
+  All 404 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CSE287Lab.vcxproj -> C:\Users\Owner\Desktop\Programming stuff\CSE387ProjectOneSosanma\Release\CSE387Lab.exe
